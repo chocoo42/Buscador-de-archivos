@@ -1,0 +1,10 @@
+Soy Santino Adrian, cree este programa para automatizar un proceso del trabajo. Soy administrativo de medio tiempo, y sucede que cuando termina mi turno los demas
+logicamente siguen trabajando y los mails con facturas siguen llegando.
+El problema era que al dia siguiente, no sabia hasta donde se descargaron mails o algunos se descargaban y otros no y tenia que estar verificando que no exista
+la factura navegando en las carpetas de facturas.
+Ahora con este programa, se puede seleccionar las carpetas donde se guardarian dichas facturas, filtrar por el nombre que tendrian y ver si ya existen, ahorrando
+el tiempo de tener que buscarlas.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Esta carpeta incluye el codigo fuente (buscador.py) y el ejecutable (dist->buscador.exe)
